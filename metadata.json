@@ -1,0 +1,8 @@
+{
+  "name": "LexConsul - Especialista em Leis Brasileiras",
+  "description": "Aplicativo mobile especialista em Contabilidade, Advocacia, RH e todas as leis brasileiras. Consultoria jurídica e contábil em tempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

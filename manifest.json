@@ -1,0 +1,21 @@
+
+{
+  "name": "PPSILVA LexConsul Solutions",
+  "short_name": "PPSILVA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=PPSILVA&backgroundColor=1e40af",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=PPSILVA&backgroundColor=1e40af",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
